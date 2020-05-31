@@ -1,1 +1,5 @@
-# firm
+# A gridded firm dataset as a proxy for economic activity in China
+
+### Abstract
+
+Measuring the geographical distribution of economic activity plays a key role in scientific research and policymaking. However, previous studies and data on economic activity either have a coarse spatial resolution or cover a limited time span, and the high-resolution characteristics of socioeconomic dynamics are largely unknown. Here, we construct a dataset on the economic activity of mainland China, the gridded firm registration dataset (GFRD), which measures firm activity at a 0.01$^{\circ}$  latitude by 0.01$^{\circ}$  longitude scale. Specifically, our dataset captures the geographically based opening and closing of approximately 25 million firms that registered in mainland China over the period 2005-2015. The characteristics of fine granularity and long-term observability give the GFRD a high application value. The dataset not only allows us to quantify the spatiotemporal patterns of the establishments, urban vibrancy, and socioeconomic activity, but also helps us uncover the fundamental principles underlying the dynamics of industrial and economic development.
