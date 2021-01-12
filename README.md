@@ -12,8 +12,11 @@ Measuring the geographical distribution of economic activity plays a key role in
 - `firm_stat.R` : the R code for data analysis (Figures 2, 4, 5; Table 3).
 
 ### Data
-- `main data` : [download](https://figshare.com/s/0fed1b024b24c666d595)
+- `main data` : [download](https://www.nature.com/articles/s41597-020-00792-9)
 - `yearbook_light.csv` : data for Figure 4.
 - `Beijing_Popu_1km.csv` : data for Figure 5.
 
 contact: arch.dongl@gmail.com
+
+### Cite this dataset
+Dong, L., Yuan, X., Li, M., Ratti, C., & Liu, Y. A gridded establishment dataset as a proxy for economic activity in China. Sci Data 8, 5 (2021). https://doi.org/10.1038/s41597-020-00792-9
